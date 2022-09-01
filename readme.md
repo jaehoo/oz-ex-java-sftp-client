@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.test%3Asftp-client&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=com.test%3Asftp-client)
+
 # java-sftp-client
 
 A demo project to show how to create a single sftp client with Jsch and Sshd libraries.
