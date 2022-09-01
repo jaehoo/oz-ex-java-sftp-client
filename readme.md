@@ -10,7 +10,6 @@ A demo project to show how to create a single sftp client with Jsch and Sshd lib
 
 ## Configuration
 
----
 
 | **Resource**        | **Location**       | **Description**      |
 |:--------------------|:-------------------|:---------------------|
@@ -18,8 +17,6 @@ A demo project to show how to create a single sftp client with Jsch and Sshd lib
 
 
 ## Build
-
----
 
 ### Test
 

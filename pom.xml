@@ -21,6 +21,8 @@
 		<jsch.version>0.1.55</jsch.version>
 		<maven-release-plugin.version>2.5.3</maven-release-plugin.version>
 		<jacoco.version>0.8.0</jacoco.version>
+		<sonar.organization>jaehoo</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<organization>
