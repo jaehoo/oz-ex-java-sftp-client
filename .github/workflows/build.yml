@@ -56,7 +56,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
           mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
-            -Dsonar.projectKey=jaehoo_oz-ex-java-sftp-client \
+            -Dsonar.projectKey=${{ secrets.SONAR_PROJECT_KEY }} \
             -Dsonar.test.inclusions=src/java/test/**/* \
             -Dsonar.java.binaries=target/classes \
             -Dsonar.organization=${{ secrets.SONAR_ORGANIZATION }}
