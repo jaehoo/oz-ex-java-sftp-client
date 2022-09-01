@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.test%3Asftp-client&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=com.test%3Asftp-client)
+[![build](https://github.com/jaehoo/oz-ex-java-sftp-client/actions/workflows/build.yml/badge.svg)](https://github.com/jaehoo/oz-ex-java-sftp-client/actions/workflows/build.yml/badge.svg)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.test%3Asftp-client&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=com.test%3Asftp-client)  [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=com.test%3Asftp-client&metric=coverage)](https://sonarcloud.io/summary/new_code?id=com.test%3Asftp-client)
 
 # java-sftp-client
 
